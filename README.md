@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lynx1Dev
+- 🔎 I’m interested in creating apps in Java
+- 🌱 I’m currently learning Java and Python
+- 👨🏻‍💻 I’m looking to collaborate on Java projects
+- 📫 How to reach me: lynx.dev@outlook.com
